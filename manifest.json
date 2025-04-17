@@ -1,0 +1,12 @@
+{
+  "id": "word-frequency-list",
+  "name": "Word Frequency List",
+  "version": "1.0.0",
+  "minAppVersion": "1.3.0",
+  "description": "Analyzes word frequency across your vault and finds notes containing specific words.",
+  "author": "Alexey Demidov",
+  "authorUrl": "https://github.com/alexeydemidovkz",
+  "fundingUrl": "",
+  "main": "main.js",
+  "isDesktopOnly": false
+}
